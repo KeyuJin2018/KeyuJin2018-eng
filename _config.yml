@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.keyujin.cn" # the base hostname & protocol for your site
+url: "https://www.keyujin.co" # the base hostname & protocol for your site
 #-------------------------------
 # Build Settings
 markdown: kramdown
