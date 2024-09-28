@@ -65,12 +65,12 @@ CHINA FINANCIAL PUBLISHING HOUSE, JUNE 2022
 BRETTON WOODS@75 COMPENDIUM, JULY 2019
 <br>
 <br>
-China’s Ascent
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S ASCENT</span>](https://www.keyujin.co/pdf/rise-of-china-jin.pdf)<br>
 FINANCE & DEVELOPMENT, JUNE 2019, VOL. 56, NO. 2, June 2019
 <br>
 <br>
-China's Steroid Model of Growth
-Meeting Globalization's Challenges, Princeton Press, forthcoming, April 2018
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA'S STEROID MODEL OF GROWTH</span>](https://www.keyujin.co/pdf/jin_princeton_press.pdf)<br>
+MEETING GLOBALIZATION'S CHALLENGES, PRINCETON PRESS, FORTHCOMING, APRIL 2018
 <br>
 <br>
 International Trade and International Capital Flows:
