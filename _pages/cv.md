@@ -1,8 +1,14 @@
+---
+layout: null
+title: "CV"
+permalink: /cv/
+---
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>CV</title>
+    <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         html, body {
@@ -10,7 +16,7 @@
             padding: 0;
             height: 100%;
         }
-        embed {
+        embed, iframe, object {
             width: 100%;
             height: 100%;
             border: none;
@@ -18,7 +24,7 @@
     </style>
 </head>
 <body>
-    <embed src="pdf/cv.pdf" type="application/pdf">
-    <p>您的浏览器不支持 PDF 查看。您可以<a href="pdf/cv.pdf">点击此处下载 PDF 文件</a>。</p>
+    <embed src="{{ '/pdf/cv.pdf' | relative_url }}" type="application/pdf">
+    <p>您的浏览器不支持 PDF 查看。您可以<a href="{{ '/pdf/cv.pdf' | relative_url }}">点击此处下载 PDF 文件</a>。</p>
 </body>
 </html>
