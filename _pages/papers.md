@@ -4,17 +4,16 @@ title: PAPERS
 permalink: /papers/
 ---
 # **CURRENT WORKING PAPERS**
-    
+<br>
+<br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
 WORKING PAPER, FEBRUARY 2024
 <br>
 <br>
-Technological Rivalry and Optimal Dynamic Policy in an Open Economy
-with Yan Bai and Dan Lu
-working paper NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS March 2024
-———————————————————————————————————————————————————
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">TECHNOLOGICAL RIVALRY AND OPTIMAL DYNAMIC POLICY IN AN OPEN ECONOMY WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_Sept2023.pdf)<br>
+WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS MARCH 2024———————————————————————————————————————————————————
 <br>
-PUBLICATIONS
+# **PUBLICATIONS**
 <br>
 <br>
 Misallocation Under Trade Liberalization
