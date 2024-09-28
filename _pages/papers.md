@@ -73,6 +73,6 @@ FINANCE & DEVELOPMENT, JUNE 2019, VOL. 56, NO. 2, June 2019
 MEETING GLOBALIZATION'S CHALLENGES, PRINCETON PRESS, FORTHCOMING, APRIL 2018
 <br>
 <br>
-International Trade and International Capital Flows:
-A Theoretical Perspective
-The Encyclopedia of Financial Globalization, September 2010
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">International Trade and International Capital Flows:
+A Theoretical Perspective</span>](https://www.keyujin.co/pdf/globalization_chapter.pdf)<br>
+THE ENCYCLOPEDIA OF FINANCIAL GLOBALIZATION, SEPTEMBER 2010
