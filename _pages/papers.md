@@ -61,8 +61,8 @@ JOURNAL OF INTERNATIONAL ECONOMICS, SEPTEMBER 2009
 CHINA FINANCIAL PUBLISHING HOUSE, JUNE 2022
 <br>
 <br>
-TRANS-SOVEREIGN NETWORKS - China’s Role in the New Global Order
-Bretton Woods@75 Compendium, July 2019
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">TRANS-SOVEREIGN NETWORKS - China’s Role in the New Global Order</span>](https://www.keyujin.co/pdf/Bretton-Woods-75-Compendium-Dr-Keyu-Jin.pdf)<br>
+BRETTON WOODS@75 COMPENDIUM, JULY 2019
 <br>
 <br>
 China’s Ascent
