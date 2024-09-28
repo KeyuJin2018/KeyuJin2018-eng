@@ -45,9 +45,9 @@ WITH NICOLAS COEURDACIER AND STEPHANE GUIBAUD</span>](https://www.keyujin.co/pdf
 IMF ECONOMIC REVIEW, 62 (3), 371-408, AUGUST 2014
 <br>
 <br>
-Industrial Structure and Financial Capital Flows
-American Economic Review 2012, 102(5): 2111-2146, August 2012
-Slides
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">INDUSTRIAL STRUCTURE AND FINANCIAL CAPITAL FLOWS</span>](https://www.keyujin.co/pdf/kflows_jin.pdf)<br>
+AMERICAN ECONOMIC REVIEW 2012, 102(5): 2111-2146, AUGUST 2012
+- [<span style="color:red; font-size:0.9em;">SLIDES</span>](https://www.keyujin.co/pdf/kflows_slides.pdf)<br>
 
 Composition and Growth Effects of the Current Account: A Synthesized Portfolio View
 with Kai Guo
