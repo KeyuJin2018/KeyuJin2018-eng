@@ -36,16 +36,19 @@ AMERICAN ECONOMIC JOURNAL: MACROECONOMICS 10 (4): 36-76, OCTOBER 2018
 <br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">CREDIT CONSTRAINTS AND GROWTH IN A GLOBAL ECONOMY
 WITH NICOLAS COEURDACIER AND STEPHANE GUIBAUD</span>](https://www.keyujin.co/pdf/credit_cgj.pdf)<br>
-AMERICAN ECONOMIC REVIEW 105 (9): 2838-81, 2015
+AMERICAN ECONOMIC REVIEW 105 (9): 2838-81, 2015<br>
 - [<span style="color:red; font-size:0.9em;">SLIDES</span>](https://www.keyujin.co/pdf/cgj_slides.pdf) · [<span style="color:red; font-size:0.9em;">FULL PAPER</span>](https://www.keyujin.co/pdf/CGJ_WP.pdf)
 <br>
 <br>
-Fertility and Social Security Policies in China
-with Nicolas Coeurdacier and Stephane Guibaud
-IMF Economic Review, 62 (3), 371-408, August 2014
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">FERTILITY AND SOCIAL SECURITY POLICIES IN CHINA
+WITH NICOLAS COEURDACIER AND STEPHANE GUIBAUD</span>](https://www.keyujin.co/pdf/fertility.pdf)<br>
+IMF ECONOMIC REVIEW, 62 (3), 371-408, AUGUST 2014
+<br>
+<br>
 Industrial Structure and Financial Capital Flows
 American Economic Review 2012, 102(5): 2111-2146, August 2012
 Slides
+
 Composition and Growth Effects of the Current Account: A Synthesized Portfolio View
 with Kai Guo
 Journal of International Economics, September 2009
