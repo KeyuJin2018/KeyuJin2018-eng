@@ -55,7 +55,7 @@ WITH KAI GUO</span>](https://www.keyujin.co/pdf/composition.pdf)<br>
 JOURNAL OF INTERNATIONAL ECONOMICS, SEPTEMBER 2009
 ———————————————————————————————————————————————————
 <br>
-BOOK CHAPTERS
+# **BOOK CHAPTERS**
 <br>
 <br>
 Digital Economy and Financial Innovation (Chinese)
@@ -64,10 +64,16 @@ China Financial Publishing House, June 2022
 <br>
 TRANS-SOVEREIGN NETWORKS - China’s Role in the New Global Order
 Bretton Woods@75 Compendium, July 2019
+<br>
+<br>
 China’s Ascent
 FINANCE & DEVELOPMENT, JUNE 2019, VOL. 56, NO. 2, June 2019
+<br>
+<br>
 China's Steroid Model of Growth
 Meeting Globalization's Challenges, Princeton Press, forthcoming, April 2018
+<br>
+<br>
 International Trade and International Capital Flows:
 A Theoretical Perspective
 The Encyclopedia of Financial Globalization, September 2010
