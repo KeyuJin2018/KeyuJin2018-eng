@@ -30,7 +30,7 @@ JOURNAL OF INTERNATIONAL ECONOMICS, (130), MAY 2021
 <br>
 <br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">INTERNATIONAL TRANSMISSION WITH HETEROGENEOUS SECTORS
-WITH NAN LI</span>](https://www.keyujin.co/pdf/JinLi_AEJ_Final L. 10, NO. 4, OCTOBER 2018.pdf)<br>
+WITH NAN LI</span>](https://www.keyujin.co/pdf/JinLi_AEJ_FinalL.pdf)<br>
 AMERICAN ECONOMIC JOURNAL: MACROECONOMICS 10 (4): 36-76, OCTOBER 2018
 <br>
 <br>
