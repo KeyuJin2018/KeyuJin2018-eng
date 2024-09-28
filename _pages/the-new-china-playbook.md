@@ -11,4 +11,4 @@ In The New China Playbook, Keyu Jin burrows deep into the mechanisms of a unique
 > "The biggest geo-political change of the 21st century will be the end of exclusive Western political and economic dominance. The rise of China is at the core of this change and Keyu Jin is a brilliant thinker to take us through its implications from the perspective of someone who understands both China and the West. It is this combination of insider and outsider insight which makes *The New China Playbook* essential reading."
 
 
-> —Tony Blair, former Prime Minister of the United Kingdom
+ **—Tony Blair, former Prime Minister of the United Kingdom**
