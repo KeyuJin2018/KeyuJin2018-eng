@@ -21,7 +21,7 @@ AMERICAN ECONOMIC REVIEW, ACCEPTED SEPTEMBER 2023
 <br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">THE ONE CHILD POLICY AND HOUSEHOLD SAVING
 WITH TAHA CHOUKHMANE AND NICOLAS COEURDACIER</span>](https://www.keyujin.co/pdf/onechildpolicy_ccj.pdf)<br>
-JOURNAL OF EUROPEAN ECONOMIC ASSOCIATION, 21 (3): 987-1032, June 2023.
+JOURNAL OF EUROPEAN ECONOMIC ASSOCIATION, 21 (3): 987-1032, JUNE 2023.
 <br>
 <br>
 The Puzzling Change in the Transmission of U.S. Macroeconomic Policy Shocks
