@@ -11,6 +11,6 @@ permalink: /cv/
     <meta http-equiv="refresh" content="0; url={{ '/pdf/cv.pdf' | relative_url }}">
 </head>
 <body>
-    <p>You may click here to download<a href="{{ '/pdf/cv.pdf' | relative_url }}">Professor Jin’s CV </a></p>
+    <p>You may click here to download <a href="{{ '/pdf/cv.pdf' | relative_url }}"> Professor Jin’s CV </a></p>
 </body>
 </html>
