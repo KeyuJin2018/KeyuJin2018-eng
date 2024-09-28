@@ -23,7 +23,7 @@ ARTICLE, 27 OCTOBER 2022
 <br>
 # **The Guardian**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA SAYS IT'S DITCHING GROWTH TARGETS. THAT COULD BE GOOD NEWS FOR THE WORLD</span>](https://www.theguardian.com/commentisfree/2022/aug/23/china-property-market-world-economy)<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S PROPERTY MARKET IS IN FREEFALL. WHAT DOES THIS MEAN FOR THE WORLD ECONOMY? </span>](https://www.theguardian.com/commentisfree/2022/aug/23/china-property-market-world-economy)<br>
 ARTICLE, 23 AUGUST 2022
 <br>
 <br>
