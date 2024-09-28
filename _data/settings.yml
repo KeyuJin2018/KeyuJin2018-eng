@@ -14,7 +14,7 @@ menu_settings:
     - title: "首页"
       url: "/"
     - title: "Bio"
-      url: "/Bio/"
+      url: "/bio/"
     - title: "视音"
       url: "/videos/"
     - title: "瞬间"
