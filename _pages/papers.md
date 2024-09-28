@@ -14,7 +14,8 @@ working paper, FEBRUARY 2024
 Technological Rivalry and Optimal Dynamic Policy in an Open Economy
 with Yan Bai and Dan Lu
 working paper NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS March 2024
-————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————
+<br>
 PUBLICATIONS
 <br>
 <br>
@@ -43,7 +44,8 @@ Slides
 Composition and Growth Effects of the Current Account: A Synthesized Portfolio View
 with Kai Guo
 Journal of International Economics, September 2009
-————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————
+<br>
 BOOK CHAPTERS
 <br>
 <br>
