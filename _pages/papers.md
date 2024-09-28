@@ -3,11 +3,10 @@ layout: page
 title: PAPERS
 permalink: /papers/
 ---
-CURRENT WORKING PAPERS
-<br>
-<br>
-Optimal Trade Policy with International Technology Diffusion
-with Yan Bai, Dan Lu and Hanxi Wang
+# **CURRENT WORKING PAPERS**
+    
+- [**<span style="color:red; font-size:0.9em;">Optimal Trade Policy with International Technology Diffusion</span>**](pdf/BJL_July2021.pdf)  
+  *with Yan Bai, Dan Lu, and Hanxi Wang*
 working paper, FEBRUARY 2024
 <br>
 <br>
