@@ -1,1 +1,2 @@
-DirectoryIndex cv.pdf
+RewriteEngine On
+RewriteRule ^cv/?$ /cv/cv.pdf [R=301,L]
