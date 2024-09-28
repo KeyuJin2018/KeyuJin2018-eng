@@ -34,10 +34,13 @@ WITH NAN LI</span>](https://www.keyujin.co/pdf/JinLi_AEJ_FinalL.pdf)<br>
 AMERICAN ECONOMIC JOURNAL: MACROECONOMICS 10 (4): 36-76, OCTOBER 2018
 <br>
 <br>
-Credit constraints and Growth in a Global Economy
-with Nicolas Coeurdacier and Stephane Guibaud
-American Economic Review 105 (9): 2838-81, 2015
-Slides • Full Paper
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CREDIT CONSTRAINTS AND GROWTH IN A GLOBAL ECONOMY
+WITH NICOLAS COEURDACIER AND STEPHANE GUIBAUD</span>](https://www.keyujin.co/pdf/credit_cgj.pdf)<br>
+AMERICAN ECONOMIC REVIEW 105 (9): 2838-81, 2015
+- [<span style="color:red; font-size:0.9em;">MISALLOCATION UNDER TRADE LIBERALIZATION WITH YAN BAI AND DAN LU</span>](pdf/CGJ_WP.pdf)<br>
+- [<span style="color:red; font-size:0.9em;">SLIDES</span>](pdf/cgj_slides.pdf) · [<span style="color:red; font-size:0.9em;">FULL PAPER</span>](pdf/CGJ_WP.pdf)
+<br>
+<br>
 Fertility and Social Security Policies in China
 with Nicolas Coeurdacier and Stephane Guibaud
 IMF Economic Review, 62 (3), 371-408, August 2014
