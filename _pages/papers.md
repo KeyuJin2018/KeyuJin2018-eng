@@ -37,8 +37,7 @@ AMERICAN ECONOMIC JOURNAL: MACROECONOMICS 10 (4): 36-76, OCTOBER 2018
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">CREDIT CONSTRAINTS AND GROWTH IN A GLOBAL ECONOMY
 WITH NICOLAS COEURDACIER AND STEPHANE GUIBAUD</span>](https://www.keyujin.co/pdf/credit_cgj.pdf)<br>
 AMERICAN ECONOMIC REVIEW 105 (9): 2838-81, 2015
-- [<span style="color:red; font-size:0.9em;">MISALLOCATION UNDER TRADE LIBERALIZATION WITH YAN BAI AND DAN LU</span>](pdf/CGJ_WP.pdf)<br>
-- [<span style="color:red; font-size:0.9em;">SLIDES</span>](pdf/cgj_slides.pdf) · [<span style="color:red; font-size:0.9em;">FULL PAPER</span>](pdf/CGJ_WP.pdf)
+- [<span style="color:red; font-size:0.9em;">SLIDES</span>](https://www.keyujin.co/pdf/cgj_slides.pdf) · [<span style="color:red; font-size:0.9em;">FULL PAPER</span>](https://www.keyujin.co/pdf/CGJ_WP.pdf)
 <br>
 <br>
 Fertility and Social Security Policies in China
