@@ -27,7 +27,7 @@ ARTICLE, 27 OCTOBER 2022
 ARTICLE, 23 AUGUST 2022
 <br>
 <br>
-CHINA SAYS IT'S DITCHING GROWTH TARGETS. THAT COULD BE GOOD NEWS FOR THE WORLD
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA SAYS IT'S DITCHING GROWTH TARGETS. THAT COULD BE GOOD NEWS FOR THE WORLD</span>](https://www.theguardian.com/commentisfree/2020/jun/01/china-gdp-growth-targets-coronavirus-beijing)<br>
 ARTICLE, 01 JUNE 2020
 ———————————————————————————————————————————————————
 <br>
