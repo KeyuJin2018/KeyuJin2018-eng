@@ -7,5 +7,5 @@
   RewriteBase /
 
   # Redirects
-  RewriteRule ^cv/$ cv.html [R=301,L]
+  RewriteRule ^cv/?$ cv.html [R=301,L]
 </IfModule>
