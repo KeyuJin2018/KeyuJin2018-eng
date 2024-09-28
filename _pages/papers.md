@@ -56,10 +56,9 @@ JOURNAL OF INTERNATIONAL ECONOMICS, SEPTEMBER 2009
 ———————————————————————————————————————————————————
 <br>
 # **BOOK CHAPTERS**
-<br>
-<br>
-Digital Economy and Financial Innovation (Chinese)
-China Financial Publishing House, June 2022
+
+- [<span style="color:red; font-size:0.9em;">DIGITAL ECONOMY AND FINANCIAL INNOVATION (CHINESE)</span>](http://www.sfi.org.cn/book_detail/1439.html)<br>
+CHINA FINANCIAL PUBLISHING HOUSE, JUNE 2022
 <br>
 <br>
 TRANS-SOVEREIGN NETWORKS - China’s Role in the New Global Order
