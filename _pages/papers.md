@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 # **CURRENT WORKING PAPERS**
     
-- [<span class="red-bold-small">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](pdf/BJL_July2021.pdf)<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](pdf/BJL_July2021.pdf)<br>
 WORKING PAPER, FEBRUARY 2024
 <br>
 <br>
