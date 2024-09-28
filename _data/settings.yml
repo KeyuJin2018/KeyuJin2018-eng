@@ -15,11 +15,13 @@ menu_settings:
       url: "/"
     - title: "Bio"
       url: "/bio/"
-    - title: "视音"
+    - title: "VIDEOS"
       url: "/videos/"
-    - title: "瞬间"
-      url: "/elements/"
-     
+    - title: "CV"
+      url: "/cv/"
+    - title: "THE NEW CHINA PLAYBOOK"
+      url: "//the-new-china-playbook/"
+    
       
   
 
