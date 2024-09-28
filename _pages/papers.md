@@ -48,10 +48,11 @@ IMF ECONOMIC REVIEW, 62 (3), 371-408, AUGUST 2014
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">INDUSTRIAL STRUCTURE AND FINANCIAL CAPITAL FLOWS</span>](https://www.keyujin.co/pdf/kflows_jin.pdf)<br>
 AMERICAN ECONOMIC REVIEW 2012, 102(5): 2111-2146, AUGUST 2012
 - [<span style="color:red; font-size:0.9em;">SLIDES</span>](https://www.keyujin.co/pdf/kflows_slides.pdf)<br>
-
-Composition and Growth Effects of the Current Account: A Synthesized Portfolio View
-with Kai Guo
-Journal of International Economics, September 2009
+<br>
+<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">COMPOSITION AND GROWTH EFFECTS OF THE CURRENT ACCOUNT: A SYNTHESIZED PORTFOLIO VIEW
+WITH KAI GUO</span>](https://www.keyujin.co/pdf/composition.pdf)<br>
+JOURNAL OF INTERNATIONAL ECONOMICS, SEPTEMBER 2009
 ———————————————————————————————————————————————————
 <br>
 BOOK CHAPTERS
