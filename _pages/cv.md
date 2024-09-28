@@ -4,7 +4,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -25,6 +24,6 @@ permalink: /cv/
 </head>
 <body>
     <embed src="{{ '/pdf/cv.pdf' | relative_url }}" type="application/pdf">
-    <p>您的浏览器不支持 PDF 查看。您可以<a href="{{ '/pdf/cv.pdf' | relative_url }}">点击此处下载 PDF 文件</a>。</p>
+    <p>You may click here to<a href="{{ '/pdf/cv.pdf' | relative_url }}">download Professor Jin’s CV</a>。</p>
 </body>
 </html>
