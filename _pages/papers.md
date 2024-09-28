@@ -24,9 +24,11 @@ WITH TAHA CHOUKHMANE AND NICOLAS COEURDACIER</span>](https://www.keyujin.co/pdf/
 JOURNAL OF EUROPEAN ECONOMIC ASSOCIATION, 21 (3): 987-1032, JUNE 2023.
 <br>
 <br>
-The Puzzling Change in the Transmission of U.S. Macroeconomic Policy Shocks
-with Ethan Ilzetzki
-Journal of International Economics, (130), May 2021
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">THE PUZZLING CHANGE IN THE TRANSMISSION OF U.S. MACROECONOMIC POLICY SHOCKS
+WITH ETHAN ILZETZKI</span>](https://www.keyujin.co/pdf/PuzzlingChange.pdf)<br>
+JOURNAL OF INTERNATIONAL ECONOMICS, (130), MAY 2021
+<br>
+<br>
 International Transmission With Heterogeneous Sectors
 with Nan Li
 American Economic Journal: Macroeconomics 10 (4): 36-76, October 2018
