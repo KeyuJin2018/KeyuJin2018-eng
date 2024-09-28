@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 # **CURRENT WORKING PAPERS**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](https://www.keyujin.co/pdf/Optimal.February.2024.pdf)<br>
 WORKING PAPER, FEBRUARY 2024
 <br>
 <br>
@@ -14,9 +14,11 @@ WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACR
 <br>
 # **PUBLICATIONS**
 
-Misallocation Under Trade Liberalization
-with Yan Bai and Dan Lu
-American Economic Review, Accepted September 2023
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">MISALLOCATION UNDER TRADE LIBERALIZATION
+WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
+AMERICAN ECONOMIC REVIEW, ACCEPTED SEPTEMBER 2023
+<br>
+<br>
 The One Child Policy and Household Saving
 with Taha Choukhmane and Nicolas Coeurdacier
 JOURNAL OF EUROPEAN ECONOMIC ASSOCIATION, 21 (3): 987-1032, June 2023.
