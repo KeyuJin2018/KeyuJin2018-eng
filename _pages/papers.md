@@ -19,9 +19,11 @@ WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
 AMERICAN ECONOMIC REVIEW, ACCEPTED SEPTEMBER 2023
 <br>
 <br>
-The One Child Policy and Household Saving
-with Taha Choukhmane and Nicolas Coeurdacier
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">THE ONE CHILD POLICY AND HOUSEHOLD SAVING
+WITH TAHA CHOUKHMANE AND NICOLAS COEURDACIER</span>](https://www.keyujin.co/pdf/onechildpolicy_ccj.pdf)<br>
 JOURNAL OF EUROPEAN ECONOMIC ASSOCIATION, 21 (3): 987-1032, June 2023.
+<br>
+<br>
 The Puzzling Change in the Transmission of U.S. Macroeconomic Policy Shocks
 with Ethan Ilzetzki
 Journal of International Economics, (130), May 2021
