@@ -1,29 +1,16 @@
 ---
 layout: null
-title: "CV"
 permalink: /cv/
 ---
 
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        html, body {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-        }
-        embed, iframe, object {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-    </style>
+    <title>CV</title>
+    <meta http-equiv="refresh" content="0; url={{ '/pdf/cv.pdf' | relative_url }}">
 </head>
 <body>
-    <embed src="{{ '/pdf/cv.pdf' | relative_url }}" type="application/pdf">
-    <p>You may click here to <a href="{{ '/pdf/cv.pdf' | relative_url }}"> download Professor Jin’s CV</a>。</p>
+    <p>如果您的浏览器没有自动跳转，请点击<a href="{{ '/pdf/cv.pdf' | relative_url }}">这里</a>下载简历。</p>
 </body>
 </html>
