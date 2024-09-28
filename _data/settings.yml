@@ -23,6 +23,8 @@ menu_settings:
       url: "/cv/"
     - title: "THE NEW CHINA PLAYBOOK"
       url: "/the-new-china-playbook/"
+    - title: "CONTACT"
+      url: "/contact/"
     
       
   
