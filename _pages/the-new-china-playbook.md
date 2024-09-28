@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "The New China Playbook"
+layout: page
+title: The New China Playbook
 permalink: /the-new-china-playbook/
+image: '/images/the-new-china-playbook.jpg'
 ---
 
 # **The New China Playbook**
