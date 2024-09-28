@@ -24,6 +24,6 @@ permalink: /cv/
 </head>
 <body>
     <embed src="{{ '/pdf/cv.pdf' | relative_url }}" type="application/pdf">
-    <p>You may click here to<a href="{{ '/pdf/cv.pdf' | relative_url }}">download Professor Jin’s CV</a>。</p>
+    <p>You may click here to <a href="{{ '/pdf/cv.pdf' | relative_url }}"> download Professor Jin’s CV</a>。</p>
 </body>
 </html>
