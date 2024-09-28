@@ -12,13 +12,13 @@ VIDEO, 16TH MAY 2023
 # **The Wall Street Journal**
 
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S ECONOMY IS LEAVING BEHIND ITS EDUCATED YOUNG PEOPLE</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d)<br>
-Article, [<span style="color:red; font-size:0.9em;">(Audio)</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d), 11 May 2023
+ARTICLE, [<span style="color:red; font-size:0.9em;">(AUDIO)</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d), 11 MAY 2023
 ———————————————————————————————————————————————————
 <br>
 # **The New York Times**
 
-How China Is Fighting the Chip War With America
-Article, 27 October 2022
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">HOW CHINA IS FIGHTING THE CHIP WAR WITH AMERICA</span>](https://www.nytimes.com/2022/10/27/opinion/china-america-chip-tech-war.html?searchResultPosition=3)<br>
+ARTICLE, 27 OCTOBER 2022
 ———————————————————————————————————————————————————
 <br>
 # **The Guardian**
