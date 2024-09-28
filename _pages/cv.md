@@ -3,7 +3,7 @@ layout: null
 permalink: /cv/
 ---
 
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +11,6 @@ permalink: /cv/
     <meta http-equiv="refresh" content="0; url={{ '/pdf/cv.pdf' | relative_url }}">
 </head>
 <body>
-    <p>如果您的浏览器没有自动跳转，请点击<a href="{{ '/pdf/cv.pdf' | relative_url }}">这里</a>下载简历。</p>
+    <p>You may click here to download<a href="{{ '/pdf/cv.pdf' | relative_url }}">Professor Jin’s CV </a></p>
 </body>
 </html>
