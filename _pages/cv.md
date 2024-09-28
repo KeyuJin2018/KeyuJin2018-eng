@@ -1,6 +1,7 @@
 ---
 layout: null
 permalink: /cv/
+title: "CV"
 ---
 
 
