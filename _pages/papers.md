@@ -29,9 +29,11 @@ WITH ETHAN ILZETZKI</span>](https://www.keyujin.co/pdf/PuzzlingChange.pdf)<br>
 JOURNAL OF INTERNATIONAL ECONOMICS, (130), MAY 2021
 <br>
 <br>
-International Transmission With Heterogeneous Sectors
-with Nan Li
-American Economic Journal: Macroeconomics 10 (4): 36-76, October 2018
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">INTERNATIONAL TRANSMISSION WITH HETEROGENEOUS SECTORS
+WITH NAN LI</span>](https://www.keyujin.co/pdf/JinLi_AEJ_Final L. 10, NO. 4, OCTOBER 2018.pdf)<br>
+AMERICAN ECONOMIC JOURNAL: MACROECONOMICS 10 (4): 36-76, OCTOBER 2018
+<br>
+<br>
 Credit constraints and Growth in a Global Economy
 with Nicolas Coeurdacier and Stephane Guibaud
 American Economic Review 105 (9): 2838-81, 2015
