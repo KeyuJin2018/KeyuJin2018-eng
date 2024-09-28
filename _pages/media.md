@@ -11,7 +11,7 @@ VIDEO, 16TH MAY 2023
 <br>
 # **The Wall Street Journal**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">China’s Economy Is Leaving Behind Its Educated Young People</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d)<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S ECONOMY IS LEAVING BEHIND ITS EDUCATED YOUNG PEOPLE</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d)<br>
 Article, [<span style="color:red; font-size:0.9em;">(Audio)</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d), 11 May 2023
 ———————————————————————————————————————————————————
 <br>
