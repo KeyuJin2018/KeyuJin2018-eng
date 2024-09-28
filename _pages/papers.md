@@ -5,8 +5,8 @@ permalink: /papers/
 ---
 # **CURRENT WORKING PAPERS**
     
-- [<span class="red-bold-small">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](pdf/BJL_July2021.pdf)
-working paper, FEBRUARY 2024
+- [<span class="red-bold-small">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](pdf/BJL_July2021.pdf)<br>
+WORKING PAPER, FEBRUARY 2024
 <br>
 <br>
 Technological Rivalry and Optimal Dynamic Policy in an Open Economy
