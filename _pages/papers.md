@@ -4,8 +4,7 @@ title: PAPERS
 permalink: /papers/
 ---
 # **CURRENT WORKING PAPERS**
-<br>
-<br>
+
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">OPTIMAL TRADE POLICY WITH INTERNATIONAL TECHNOLOGY DIFFUSION WITH YAN BAI, DAN LU AND HANXI WANG</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
 WORKING PAPER, FEBRUARY 2024
 <br>
@@ -14,8 +13,7 @@ WORKING PAPER, FEBRUARY 2024
 WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS MARCH 2024———————————————————————————————————————————————————
 <br>
 # **PUBLICATIONS**
-<br>
-<br>
+
 Misallocation Under Trade Liberalization
 with Yan Bai and Dan Lu
 American Economic Review, Accepted September 2023
