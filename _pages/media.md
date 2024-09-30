@@ -112,7 +112,7 @@ ARTICLE, JULY 2014
 <br>
 <br>
 - <a href="https://www.project-syndicate.org/commentary/xi-jinping-is-no-mao-zedong-by-keyu-jin-2016-08" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">XI JINPING IS NO MAO ZEDONG</a><br>
-ARTICLE, (SLIDES), 04 AUG 2016
+- ARTICLE, [<span style="color:red; font-size:0.9em;">SLIDES</span>](https://personal.lse.ac.uk/jink/pdf/kflows_jin.pdf), 04 AUG 2016
 <br>
 <br>
 OVERHAULING CHINA
