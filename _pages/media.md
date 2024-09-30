@@ -33,8 +33,8 @@ ARTICLE, 01 JUNE 2020
 <br>
 # **The Financial Times**
 
-Xi Jinpings’s Dream of a Chinese Military Industrial Complex
-Article, June 23 2023
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">XI JINPINGS’S DREAM OF A CHINESE MILITARY INDUSTRIAL COMPLEX</span>](https://www.ft.com/content/6f388e4b-9c4e-4ca3-8040-49962f1e155d?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9)<br>
+ARTICLE, JUNE 23 2023
 <br>
 <br>
 The trade war with America is a strategic gift for China
