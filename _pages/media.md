@@ -59,95 +59,95 @@ ARTICLE, JUNE 2012
 ARTICLE, 23 MAY 2023
 <br>
 <br>
-America Is Fueling Chinese Techno-Nationalism
-Article, 24 Feb 2022
+- <a href="https://www.project-syndicate.org/commentary/america-fueling-china-state-support-for-technological-primacy-by-keyu-jin-2022-02?barrier=accesspaylog" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">AMERICA IS FUELING CHINESE TECHNO-NATIONALISM</a><br>
+ARTICLE, 24 FEB 2022
 <br>
 <br>
-China Bets on Common Prosperity
-Article, 04 Dec 2021
+- <a href="https://www.project-syndicate.org/onpoint/china-common-prosperity-paradigm-shift-by-keyu-jin-2021-12?barrier=accesspaylog" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA BETS ON COMMON PROSPERITY</a><br>
+ARTICLE, 04 DEC 2021
 <br>
 <br>
-The Shape of China’s Recovery
-Article, 04 Jan 2021
+- <a href="https://www.project-syndicate.org/onpoint/china-post-covid19-recovery-strengths-and-weaknesses-by-keyu-jin-2021-01?a_la=english&a_d=600ef2c79f7e9056a4e99d28&a_m=&a_a=click&a_s=&a_p=%2Fcolumnist%2Fkeyu-jin&a_li=china-post-covid19-recovery-strengths-and-weaknesses-by-keyu-jin-2021-01&a_pa=columnist-commentaries&a_ps=&a_ms=&a_r=" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">THE SHAPE OF CHINA’S RECOVERY</a><br>
+ARTICLE, 04 JAN 2021
 <br>
 <br>
-Is This China’s Global Leadership Moment?
-Article, 03 April 2020
+IS THIS CHINA’S GLOBAL LEADERSHIP MOMENT?
+ARTICLE, 03 APRIL 2020
 <br>
 <br>
-An Interview with Keyu Jin
-Interview Article, 28 Jan 2020
+AN INTERVIEW WITH KEYU JIN
+INTERVIEW ARTICLE, 28 JAN 2020
 <br>
 <br>
-China’s 70 Years of Progress
-Article, 30 Sept 2019
+CHINA’S 70 YEARS OF PROGRESS
+ARTICLE, 30 SEPT 2019
 <br>
 <br>
-The Art of Wait and See
-Article, 11 Jul 2019
+THE ART OF WAIT AND SEE
+ARTICLE, 11 JUL 2019
 <br>
 <br>
-What China Can Gain from Trump’s Trade War
-Article, 26 Sep 2018
+WHAT CHINA CAN GAIN FROM TRUMP’S TRADE WAR
+ARTICLE, 26 SEP 2018
 <br>
 <br>
-The West Is Wrong About China’s President
-Article, 03 Apr 2018
+THE WEST IS WRONG ABOUT CHINA’S PRESIDENT
+ARTICLE, 03 APR 2018
 <br>
 <br>
-What Does Xi Jinping Want?
-Article, 03 Nov 2017
+WHAT DOES XI JINPING WANT?
+ARTICLE, 03 NOV 2017
 <br>
 <br>
-Taking the Politics Out of Development
-Article, 11 May 2017
+TAKING THE POLITICS OUT OF DEVELOPMENT
+ARTICLE, 11 MAY 2017
 <br>
 <br>
-China’s Weapons of Trade War
-Article, 22 Feb 2017
+CHINA’S WEAPONS OF TRADE WAR
+ARTICLE, 22 FEB 2017
 <br>
 <br>
-How China Views Trump
-Article, July 2014
+HOW CHINA VIEWS TRUMP
+ARTICLE, JULY 2014
 <br>
 <br>
-Xi Jinping is No Mao Zedong
-Article, (Slides), 04 Aug 2016
+XI JINPING IS NO MAO ZEDONG
+ARTICLE, (SLIDES), 04 AUG 2016
 <br>
 <br>
-Overhauling China
-Article, 11 Feb 2016
+OVERHAULING CHINA
+ARTICLE, 11 FEB 2016
 <br>
 <br>
-China’s Two-Child Consumption Engine
-Article, 05 Jan 2016
+CHINA’S TWO-CHILD CONSUMPTION ENGINE
+ARTICLE, 05 JAN 2016
 <br>
 <br>
-China’s Unwilling Consumers
-Article, 11 Nov 2015
+CHINA’S UNWILLING CONSUMERS
+ARTICLE, 11 NOV 2015
 <br>
 <br>
-China’s Jobless Growth Miracle
-Article, 01 Nov 2015
+CHINA’S JOBLESS GROWTH MIRACLE
+ARTICLE, 01 NOV 2015
 <br>
 <br>
-China’s Reform Stalemate
-Article, 26 Jan 2015
+CHINA’S REFORM STALEMATE
+ARTICLE, 26 JAN 2015
 <br>
 <br>
-China’s Vicious Growth Circle
-Article, 16 Oct 2014
+CHINA’S VICIOUS GROWTH CIRCLE
+ARTICLE, 16 OCT 2014
 <br>
 <br>
-China’s Consumer Babies
-Article, 27 Nov 2013
+CHINA’S CONSUMER BABIES
+ARTICLE, 27 NOV 2013
 <br>
 <br>
-Why Are Savings Patterns So Different?
-Article, 14 Sep 2012
+WHY ARE SAVINGS PATTERNS SO DIFFERENT?
+ARTICLE, 14 SEP 2012
 <br>
 <br>
-Why Capital Flows Uphill
-Article, 26 Jan 2012
+WHY CAPITAL FLOWS UPHILL
+ARTICLE, 26 JAN 2012
 <br>
 <br>
