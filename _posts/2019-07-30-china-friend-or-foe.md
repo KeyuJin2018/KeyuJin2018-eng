@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China: Friend or Foe?
+title: China Friend or Foe?
 description: Intelligence Squared
 date: 2019-07-30 15:01:35 +0300
 author: admin
