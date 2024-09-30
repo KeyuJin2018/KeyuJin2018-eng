@@ -4,7 +4,7 @@ title: Economist Keyu Jin on what America gets wrong about China
 description: WASHINGTON POST LIVE
 date: 2023-06-01 15:01:35 +0300
 author: admin
-image: '/images/53818807369_4aafa98c9a_c.jpg'
+image: '/images/imrs.jpg'
 video_embed: https://www.youtube.com/embed/f5coExWMAPI
 tags: [video]
 featured: true
