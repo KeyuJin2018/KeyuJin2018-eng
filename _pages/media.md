@@ -55,8 +55,8 @@ ARTICLE, JUNE 2012
 <br>
 # **The PROJECT SYNDICATE**
 
-Keyu Jin on Chinese regulation, innovation, finance, and more
-Article, 23 May 2023
+- <a href="https://www.project-syndicate.org/onpoint/an-interview-with-keyu-jin-new-china-playbook-chinese-tech-innovation-2023-05?barrier=accesspaylog" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">KEYU JIN ON CHINESE REGULATION, INNOVATION, FINANCE, AND MORE</a><br>
+ARTICLE, 23 MAY 2023
 <br>
 <br>
 America Is Fueling Chinese Techno-Nationalism
