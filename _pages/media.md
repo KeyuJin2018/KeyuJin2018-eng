@@ -115,39 +115,39 @@ ARTICLE, JULY 2014
 ARTICLE, [<span style="color:red; font-size:0.9em;">(Slides)</span>](https://personal.lse.ac.uk/jink/pdf/kflows_jin.pdf), 04 AUG 2016
 <br>
 <br>
-OVERHAULING CHINA
+- <a href="https://www.project-syndicate.org/commentary/china-economic-dynamism-political-reform-by-keyu-jin-2016-02" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">OVERHAULING CHINA</a><br>
 ARTICLE, 11 FEB 2016
 <br>
 <br>
-CHINA’S TWO-CHILD CONSUMPTION ENGINE
+- <a href="https://www.project-syndicate.org/commentary/china-two-child-policy-consumption-by-keyu-jin-2016-01" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S TWO-CHILD CONSUMPTION ENGINE</a><br>
 ARTICLE, 05 JAN 2016
 <br>
 <br>
-CHINA’S UNWILLING CONSUMERS
+- <a href="https://www.project-syndicate.org/commentary/china-economic-rebalancing-domestic-consumption-by-keyu-jin-2015-11" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S UNWILLING CONSUMERS</a><br>
 ARTICLE, 11 NOV 2015
 <br>
 <br>
-CHINA’S JOBLESS GROWTH MIRACLE
+- <a href="https://www.project-syndicate.org/commentary/china-jobless-economic-growth-by-keyu-jin-2015-06" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S JOBLESS GROWTH MIRACLE</a><br>
 ARTICLE, 01 NOV 2015
 <br>
 <br>
-CHINA’S REFORM STALEMATE
+- <a href="https://www.project-syndicate.org/commentary/china-reform-vested-interests-by-keyu-jin-2015-01" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S REFORM STALEMATE</a><br>
 ARTICLE, 26 JAN 2015
 <br>
 <br>
-CHINA’S VICIOUS GROWTH CIRCLE
+- <a href="https://www.project-syndicate.org/commentary/china-economic-restructuring-growth-model-by-keyu-jin-2014-10" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S VICIOUS GROWTH CIRCLE</a><br>
 ARTICLE, 16 OCT 2014
 <br>
 <br>
-CHINA’S CONSUMER BABIES
+- <a href="https://www.project-syndicate.org/commentary/keyu-jin-considers-the-potential-economic-impact-of-china-s-decision-to-loosen-its-one-child-policy" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S CONSUMER BABIES</a><br>
 ARTICLE, 27 NOV 2013
 <br>
 <br>
-WHY ARE SAVINGS PATTERNS SO DIFFERENT?
+- <a href="https://www.project-syndicate.org/commentary/why-are-savings-patterns-so-different-by-keyu-jin" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHY ARE SAVINGS PATTERNS SO DIFFERENT?</a><br>
 ARTICLE, 14 SEP 2012
 <br>
 <br>
-WHY CAPITAL FLOWS UPHILL
+- <a href="Why Capital Flows Uphill" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHY CAPITAL FLOWS UPHILL</a><br>
 ARTICLE, 26 JAN 2012
 <br>
 <br>
