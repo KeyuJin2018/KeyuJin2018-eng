@@ -75,43 +75,43 @@ ARTICLE, 04 JAN 2021
 ARTICLE, 03 APRIL 2020
 <br>
 <br>
-AN INTERVIEW WITH KEYU JIN
+- <a href="https://www.project-syndicate.org/say-more/ps-say-more-keyu-jin?barrier=accesspaylog" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">AN INTERVIEW WITH KEYU JIN</a><br>
 INTERVIEW ARTICLE, 28 JAN 2020
 <br>
 <br>
-CHINA’S 70 YEARS OF PROGRESS
+- <a href="https://www.project-syndicate.org/commentary/china-70th-anniversary-celebration-agenda-ahead-by-keyu-jin-2019-09" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S 70 YEARS OF PROGRESS</a><br>
 ARTICLE, 30 SEPT 2019
 <br>
 <br>
-THE ART OF WAIT AND SEE
+- <a href="https://www.project-syndicate.org/commentary/china-us-trade-war-strategy-by-keyu-jin-2019-07" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">THE ART OF WAIT AND SEE</a><br>
 ARTICLE, 11 JUL 2019
 <br>
 <br>
-WHAT CHINA CAN GAIN FROM TRUMP’S TRADE WAR
+- <a href="https://www.project-syndicate.org/commentary/china-gains-us-trade-war-by-keyu-jin-2018-09" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHAT CHINA CAN GAIN FROM TRUMP’S TRADE WAR</a><br>
 ARTICLE, 26 SEP 2018
 <br>
 <br>
-THE WEST IS WRONG ABOUT CHINA’S PRESIDENT
+- <a href="https://www.project-syndicate.org/commentary/china-no-presidential-term-limits-not-dangerous-by-keyu-jin-2018-04" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">THE WEST IS WRONG ABOUT CHINA’S PRESIDENT</a><br>
 ARTICLE, 03 APR 2018
 <br>
 <br>
-WHAT DOES XI JINPING WANT?
+- <a href="https://www.project-syndicate.org/commentary/china-party-congress-xi-legacy-by-keyu-jin-2017-11" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHAT DOES XI JINPING WANT?</a><br>
 ARTICLE, 03 NOV 2017
 <br>
 <br>
-TAKING THE POLITICS OUT OF DEVELOPMENT
+- <a href="https://www.project-syndicate.org/commentary/china-one-belt-one-road-suspicions-by-keyu-jin-2017-05" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">TAKING THE POLITICS OUT OF DEVELOPMENT</a><br>
 ARTICLE, 11 MAY 2017
 <br>
 <br>
-CHINA’S WEAPONS OF TRADE WAR
+- <a href="https://www.project-syndicate.org/commentary/china-trump-trade-war-by-keyu-jin-2017-02" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA’S WEAPONS OF TRADE WAR</a><br>
 ARTICLE, 22 FEB 2017
 <br>
 <br>
-HOW CHINA VIEWS TRUMP
+- <a href="https://www.project-syndicate.org/commentary/china-view-of-trump-by-keyu-jin-2016-11" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">HOW CHINA VIEWS TRUMP</a><br>
 ARTICLE, JULY 2014
 <br>
 <br>
-XI JINPING IS NO MAO ZEDONG
+- <a href="https://www.project-syndicate.org/commentary/xi-jinping-is-no-mao-zedong-by-keyu-jin-2016-08" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">XI JINPING IS NO MAO ZEDONG</a><br>
 ARTICLE, (SLIDES), 04 AUG 2016
 <br>
 <br>
