@@ -4,7 +4,7 @@ title: Understanding China - Face to Face with Economist Keyu Jin
 description: CGTN
 date: 2023-05-28 15:01:35 +0300
 author: admin
-image: '/images/imrs.jpg'
+image: '/images/hq720.jpg'
 video_embed: https://www.youtube.com/embed/Yf-MjCq0DGw
 tags: [video]
 featured: true
