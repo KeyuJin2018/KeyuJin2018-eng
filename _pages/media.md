@@ -37,20 +37,20 @@ ARTICLE, 01 JUNE 2020
 ARTICLE, JUNE 23 2023
 <br>
 <br>
-The trade war with America is a strategic gift for China
-Article, Jan 2019
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">THE TRADE WAR WITH AMERICA IS A STRATEGIC GIFT FOR CHINA</span>](https://personal.lse.ac.uk/jink/pdf/trade-war-with-america-strategic-gift-for-china.pdf)<br>
+ARTICLE, JAN 2019
 <br>
 <br>
-China presses on America’s pain points in the trade war
-Article, July 2018
+- <a href="https://personal.lse.ac.uk/jink/pdf/China_America_trade_war.pdf" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">CHINA PRESSES ON AMERICA’s PAIN POINTS IN THE TRADE WAR</a><br>
+ARTICLE, JULY 2018
 <br>
 <br>
-A US trade war could propel China to hasten reforms at home
-Article, May 2018
+- <a href="https://personal.lse.ac.uk/jink/pdf/US_trade_China.pdf" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">A US TRADE WAR COULD PROPEL CHINA TO HASTEN REFORMS AT HOME</a><br>
+ARTICLE, MAY 2018
 <br>
 <br>
-Europe should stop arguing and look to China
-Article, June 2012
+- <a href="https://personal.lse.ac.uk/jink/pdf/Ft_june.pdf" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">EUROPE SHOULD STOP ARGUING AND LOOK TO CHINA</a><br>
+ARTICLE, JUNE 2012
 ———————————————————————————————————————————————————
 <br>
 # **The PROJECT SYNDICATE**
