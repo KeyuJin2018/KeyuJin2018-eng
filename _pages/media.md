@@ -147,7 +147,7 @@ ARTICLE, 27 NOV 2013
 ARTICLE, 14 SEP 2012
 <br>
 <br>
-- <a href="Why Capital Flows Uphill" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHY CAPITAL FLOWS UPHILL</a><br>
+- <a href="https://www.project-syndicate.org/commentary/why-capital-flows-uphill-2012-01" style="color:red; font-weight:bold; font-size:0.9em;" target="_blank">WHY CAPITAL FLOWS UPHILL</a><br>
 ARTICLE, 26 JAN 2012
 <br>
 <br>
