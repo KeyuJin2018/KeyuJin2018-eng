@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: 金刻羽
-description: 人生不应该是刻意点缀你履历的过程，而是通过你的持久的热情、 投入和不断奋斗所描绘出的轨迹
+title: Keyu Jin
+description: Brevity is the soul of wit.
 logo: "/images/logo1.png" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo2.png"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
