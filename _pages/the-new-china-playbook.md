@@ -20,6 +20,12 @@ permalink: /the-new-china-playbook/
     <p style="font-size: 16px; font-weight: bold;">
       —Tony Blair, former Prime Minister of the United Kingdom
     </p>
+   
+    <p>
+      <a href="https://www.keyujin.com/the-new-china-playbook" style="color: red; font-weight: bold;">
+        Find out more about The New China Playbook »
+      </a>
+    </p>
   </div>
 
   <!-- 右侧：图片 -->
@@ -29,12 +35,8 @@ permalink: /the-new-china-playbook/
 
 </div>
 <!-- 结束文本和图片布局的容器 -->
-
-<a href="https://www.keyujin.com/the-new-china-playbook" style="color: red; font-weight: bold;">
-  Find out more about the The New China Playbook »
-</a>
-
-
+<br>
+<br>
 <h2 style="font-weight:bold; color:black;">PRAISE FOR THE NEW CHINA PLAYBOOK</h2>
 
 Click the titles to read the articles or see the videos.
