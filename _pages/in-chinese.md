@@ -9,13 +9,18 @@ tags: [IN CHINESE]
 <section class="section">
   <div class="container">
     <div class="row">
-      {% for post in site.tags["in chinese"] %}
+      {% for post in site.tags["IN CHINESE"] %}  <!-- 使用大写标签 -->
         {% if post.title != null %}
           <div class="col col-4 col-d-6 col-t-12">
             {% include article.html %}
           </div>
+        {% else %}
+          <p>No title found for this post.</p>  <!-- 调试输出 -->
         {% endif %}
       {% endfor %}
+      {% if site.tags["IN CHINESE"] | size == 0 %}
+        <p>No posts found for this tag.</p>  <!-- 如果没有内容 -->
+      {% endif %}
     </div>
   </div>
 </section>
