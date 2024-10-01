@@ -9,7 +9,7 @@ video_embed: https://www.youtube.com/embed/Pmfy56FgI3s
 tags: [video]
 featured: true
 ---
-Slides available to download here (pdf):<a href="https://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20140129_1830_chinasRoleGlobalEconomy_sl.pdf">Click here</a>
+Slides available to download here (pdf): <a href="https://www.lse.ac.uk/assets/richmedia/channels/publicLecturesAndEvents/slides/20140129_1830_chinasRoleGlobalEconomy_sl.pdf" style="color: red; font-weight: bold;">Click here</a>
 
 Speaker: Dr Keyu Jin 
 Chair: Professor Wouter Den Haan
