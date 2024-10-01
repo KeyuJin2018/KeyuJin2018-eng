@@ -5,7 +5,6 @@ description: 鳳凰衛視PhoenixTV
 date: 2023-09-12 15:01:35 +0300
 author: admin
 image: '/images/sddefault.jpg'
-video_embed: https://www.youtube.com/embed/RMSHiKGexDw
 tags: [IN CHINESE]
 ---
 
