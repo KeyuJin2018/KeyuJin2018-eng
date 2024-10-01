@@ -19,20 +19,19 @@ In ***The New China Playbook***, Keyu Jin burrows deep into the mechanisms of a 
 
 Click the titles to read the articles or see the videos.
 <hr style="border: none; height: 3px; background-color: red; margin: 0;" />
-# **The Guardian**
+<br>
+# **FORTUNE**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S PROPERTY MARKET IS IN FREEFALL. WHAT DOES THIS MEAN FOR THE WORLD ECONOMY? </span>](https://www.theguardian.com/commentisfree/2022/aug/23/china-property-market-world-economy)<br>
-ARTICLE, 23 AUGUST 2022
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">"THE NEW CHINA PLAYBOOK: BEYOND SOCIALISM AND CAPITALISM" SELECTED AS ONE OF FORTUNE MAGAZINE'S TOP 10 MUST-READ BOOKS FOR BOARD MEMBERS </span>](https://fortune.com/2023/12/19/10-books-every-board-member-should-read/)<br>
+ARTICLE, 19 DECEMBER 2023
 <br>
 <br>
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA SAYS IT'S DITCHING GROWTH TARGETS. THAT COULD BE GOOD NEWS FOR THE WORLD</span>](https://www.theguardian.com/commentisfree/2020/jun/01/china-gdp-growth-targets-coronavirus-beijing)<br>
-ARTICLE, 01 JUNE 2020
 ———————————————————————————————————————————————————
 <br>
-# **The Financial Times**
+# **FINANCIAL TIMES**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">XI JINPINGS’S DREAM OF A CHINESE MILITARY INDUSTRIAL COMPLEX</span>](https://www.ft.com/content/6f388e4b-9c4e-4ca3-8040-49962f1e155d?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9)<br>
-ARTICLE, JUNE 23 2023
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">"THE NEW CHINA PLAYBOOK: BEYOND SOCIALISM AND CAPITALISM"SELECTED AS ONE OF THE FINANCIAL TIMES SUMMER READING</span>](https://www.ft.com/content/f52b45e8-a411-483f-8a4c-e02319f26eee)<br>
+ARTICLE, 20 JUNE 2023
 <br>
 <br>
 
