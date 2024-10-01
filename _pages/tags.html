@@ -15,10 +15,19 @@ permalink: /tags/
 <!-- begin tags -->
 <section class="section tags">
 
+  <!-- 输出所有标签 -->
+  <h2>All Available Tags:</h2>
+  <ul>
+    {% for tag in tag_words %}
+      <li>{{ tag }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- 遍历每个标签并显示对应的文章 -->
   {% for item in (0..site.tags.size-1) %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
-    <div class="tags__inner is-hidden" tag="{{ this_word | cgi_escape }}">
+    <div class="tags__inner" tag="{{ this_word | cgi_escape }}">
 
       <div class="container">
         <div class="row">
@@ -35,7 +44,8 @@ permalink: /tags/
           {% for post in site.tags[this_word] %}
             {% if post.title != null %}
               <div class="col col-4 col-d-6 col-t-12">
-                {% include article.html %}
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.excerpt }}</p>
               </div>
             {% endif %}
           {% endfor %}
@@ -46,16 +56,3 @@ permalink: /tags/
   {% endfor %}
 
 </section>
-<!-- end tags -->
-
-<script>
-  var tag_name = window.location.search.replace("?tag=", "").trim();  // 去除多余空格
-  tag_name = decodeURIComponent(tag_name);  // 解码 URL 中的特殊字符
-
-  document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim();  // 解码并去除空格
-    if (tag.toLowerCase() === tag_name.toLowerCase()) {  // 大小写不敏感匹配
-      el.classList.remove("is-hidden");
-    }
-  });
-</script>
