@@ -3,9 +3,9 @@ layout: post
 title: What's behind the slowdown in the world's two biggest economies?
 description: The Economist (PODCAST)
 date: 2022-05-25 15:01:35 +0300
-author: admin
+author: 
 image: '/images/maxresdefault.jpg'
-tags: [COMMENTARIES]
+tags: 
 ---
 Since 1900, the global economy has fallen into a recession about once a decade on average. In 2020, the world experienced the deepest downturn since the second world war. Just two years on, is another recession on the way?
 
