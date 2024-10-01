@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IN CHINESE
-permalink: /in+chinese/
+permalink: /in-chinese/
 tags: [in chinese]
 ---
 
