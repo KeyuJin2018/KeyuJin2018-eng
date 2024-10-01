@@ -3,9 +3,9 @@ layout: post
 title: China’s New Era 
 description: Wall Street Journal
 date: 2023-05-24 15:01:35 +0300
-author: admin
+author: 
 image: '/images/im-787745.jpg'
-tags: [COMMENTARIES]
+tags: 
 ---
 Has China’s slow postpandemic reopening changed the country’s outlook? Economics professor Keyu Jin and Zak Dychtwald, founder of Young China Group, explain what Beijing needs to accomplish to change the country’s perception among its global economic peers and at home.
 
