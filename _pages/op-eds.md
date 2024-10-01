@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OP-EDS
-permalink: /media/
+permalink: /op-eds/
 ---
 # **Time magazine**
 
