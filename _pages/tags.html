@@ -12,7 +12,7 @@ permalink: /tags/
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
-  <div class="tags__inner is-hidden" tag="{{ this_word | cgi_escape }}">
+  <div class="tags__inner is-hidden" tag="{{ this_word | replace: ' ', '+' }}">
 
       <div class="container">
         <div class="row">
@@ -46,10 +46,10 @@ permalink: /tags/
 
 <script>
   var tag_name = window.location.search.replace("?tag=", "").trim();
-  tag_name = decodeURIComponent(tag_name).toLowerCase();  // 将 URL 参数转换为小写
+  tag_name = decodeURIComponent(tag_name).replace(/\+/g, " ").toLowerCase();  // 将 "+" 转换为空格
 
   document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim().toLowerCase();  // 将标签转换为小写
+    var tag = decodeURIComponent(el.getAttribute('tag') || '').replace(/\+/g, " ").trim().toLowerCase();  // 将 "+" 转换为空格
     if (tag === tag_name) {
       el.classList.remove("is-hidden");
     }
