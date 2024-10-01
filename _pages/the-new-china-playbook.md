@@ -18,6 +18,21 @@ In ***The New China Playbook***, Keyu Jin burrows deep into the mechanisms of a 
 <h2 style="font-weight:bold; color:black;">PRAISE FOR THE NEW CHINA PLAYBOOK</h2>
 
 Click the titles to read the articles or see the videos.
+<hr style="border: none; height: 3px; background-color: red;" />
+# **The Guardian**
 
-<p style="font-weight:bold; color:red;">——————————————————————————————————————————————————</p>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S PROPERTY MARKET IS IN FREEFALL. WHAT DOES THIS MEAN FOR THE WORLD ECONOMY? </span>](https://www.theguardian.com/commentisfree/2022/aug/23/china-property-market-world-economy)<br>
+ARTICLE, 23 AUGUST 2022
+<br>
+<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA SAYS IT'S DITCHING GROWTH TARGETS. THAT COULD BE GOOD NEWS FOR THE WORLD</span>](https://www.theguardian.com/commentisfree/2020/jun/01/china-gdp-growth-targets-coronavirus-beijing)<br>
+ARTICLE, 01 JUNE 2020
+———————————————————————————————————————————————————
+<br>
+# **The Financial Times**
+
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">XI JINPINGS’S DREAM OF A CHINESE MILITARY INDUSTRIAL COMPLEX</span>](https://www.ft.com/content/6f388e4b-9c4e-4ca3-8040-49962f1e155d?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9)<br>
+ARTICLE, JUNE 23 2023
+<br>
+<br>
 
