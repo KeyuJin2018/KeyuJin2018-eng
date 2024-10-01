@@ -16,7 +16,7 @@ permalink: /bio/
 
   <!-- Right side: Image -->
   <div style="flex: 1; padding-left: 30px;">
-    <img src="{{ site.baseurl }}/images/11.jpg" alt="Keyu Jin" style="max-width: 100%; height: auto; min-width: 200px; max-width: 400px;">
+    <img src="{{ site.baseurl }}/images/12.jpeg" alt="Keyu Jin" style="max-width: 100%; height: auto; min-width: 200px; max-width: 400px;">
   </div>
 
 </div>
