@@ -12,3 +12,12 @@ In ***The New China Playbook***, Keyu Jin burrows deep into the mechanisms of a 
 
 
  **—Tony Blair, former Prime Minister of the United Kingdom**
+
+
+
+<h2 style="font-weight:bold; color:black;">PRAISE FOR THE NEW CHINA PLAYBOOK</h2>
+
+Click the titles to read the articles or see the videos.
+
+<p style="font-weight:bold; color:red;">——————————————————————————————————————————————————</p>
+
