@@ -19,7 +19,7 @@ tags: [IN CHINESE]
         {% endif %}
       {% endfor %}
       {% if site.tags["IN CHINESE"] | size == 0 %}
-        <p>No posts found for this tag.</p>  <!-- 如果没有内容 -->
+        
       {% endif %}
     </div>
   </div>
