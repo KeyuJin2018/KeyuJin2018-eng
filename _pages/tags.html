@@ -3,16 +3,22 @@ layout: default
 title: Tags
 permalink: /tags/
 ---
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
+
+{% capture site_tags %}
+  {% for tag in site.tags %}
+    {{ tag | first }}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+{% endcapture %}
+
+{% assign tag_words = site_tags | split: ',' | sort %}
 
 <!-- begin tags -->
 <section class="section tags">
 
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+  {% for item in (0..site.tags.size-1) %}
+    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
-  <div class="tags__inner is-hidden" tag="{{ this_word | cgi_escape }}">
+    <div class="tags__inner is-hidden" tag="{{ this_word | cgi_escape }}">
 
       <div class="container">
         <div class="row">
@@ -37,20 +43,22 @@ permalink: /tags/
       </div>
 
     </div>
-
-    {% endunless %}
-    {% endfor %}
+  {% endfor %}
 
 </section>
 <!-- end tags -->
 
+<!-- JavaScript for handling tag filtering -->
 <script>
-  var tag_name = window.location.search.replace("?tag=", "");
-  tag_name = decodeURIComponent(tag_name)
+  var tag_name = window.location.search.replace("?tag=", "").trim();  // Clean up spaces
+  tag_name = decodeURIComponent(tag_name);  // Decode URL encoding
+
+  // Find the tag containers and show the matching one
   document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '')
-    if (tag === tag_name) {
-      el.classList.remove("is-hidden");
+    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim();  // Ensure proper decoding and trimming
+    if (tag.toLowerCase() === tag_name.toLowerCase()) {  // Case-insensitive comparison
+      el.classList.remove("is-hidden");  // Show the matching tag content
+      console.log("Tag found: " + tag);  // Debugging output to confirm the tag match
     }
-  })
+  });
 </script>
