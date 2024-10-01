@@ -8,4 +8,7 @@ image: '/images/sddefault.jpg'
 video_embed: https://www.youtube.com/embed/RMSHiKGexDw
 tags: [IN CHINESE]
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMSHiKGexDw?si=AYBLN8Yk1T-aKUh_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 近來，美西方有聲音唱衰中國經濟。一些政客和媒體僅憑單項、局部、短期的波動數據來判斷全局，放大中國經濟發展過程中的階段性挑戰，給中國經濟“潑涼水”，企圖“掐滅”信心，“調減”預期。在此背景下，仍不乏有經濟學家提出客觀理性的看法。金刻羽是倫敦政治經濟學院最年輕的經濟學終身教授，主要研究國際宏觀經濟學和中國經濟，是真正能在西方核心影響力圈層捲起波瀾的中國聲音。近期，她出版了新書The New China Playbook《中國新策略》，嘗試客觀全面地介紹中國經濟的成長，並澄清西方世界對中國經濟的常見誤解和迷思。
