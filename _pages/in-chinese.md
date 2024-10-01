@@ -2,7 +2,7 @@
 layout: default
 title: In Chinese
 permalink: /in-chinese/
-tags: [in chinese]
+tags: [IN CHINESE]  <!-- 确保标签正确 -->
 ---
 
 <!-- begin content -->
