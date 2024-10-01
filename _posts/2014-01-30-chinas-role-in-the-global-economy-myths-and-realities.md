@@ -1,10 +1,10 @@
 ---
 layout: post
-title: China's Role in the Global Economy: myths and realities
+title: China's Role in the Global Economy myths and realities
 description: London School of Economics (LSE)
 date: 2014-01-30 15:01:35 +0300
 author: admin
-image: '/images/hq720.jpg'
+image: '/images/hqdefault.jpg'
 video_embed: https://www.youtube.com/embed/Pmfy56FgI3s
 tags: [video]
 featured: true
