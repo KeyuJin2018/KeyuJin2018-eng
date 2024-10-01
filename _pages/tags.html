@@ -48,17 +48,14 @@ permalink: /tags/
 </section>
 <!-- end tags -->
 
-<!-- JavaScript for handling tag filtering -->
 <script>
-  var tag_name = window.location.search.replace("?tag=", "").trim();  // Clean up spaces
-  tag_name = decodeURIComponent(tag_name);  // Decode URL encoding
+  var tag_name = window.location.search.replace("?tag=", "").trim();  // 去除多余空格
+  tag_name = decodeURIComponent(tag_name);  // 解码 URL 中的特殊字符
 
-  // Find the tag containers and show the matching one
   document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim();  // Ensure proper decoding and trimming
-    if (tag.toLowerCase() === tag_name.toLowerCase()) {  // Case-insensitive comparison
-      el.classList.remove("is-hidden");  // Show the matching tag content
-      console.log("Tag found: " + tag);  // Debugging output to confirm the tag match
+    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim();  // 解码并去除空格
+    if (tag.toLowerCase() === tag_name.toLowerCase()) {  // 大小写不敏感匹配
+      el.classList.remove("is-hidden");
     }
   });
 </script>
