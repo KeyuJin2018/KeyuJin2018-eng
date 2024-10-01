@@ -56,3 +56,7 @@ sass:
 # 标签设置
 tag_page_layout: tag
 tag_page_dir: tag
+# Homepage Redirection
+homepage: 
+  layout: redirect  # 使用重定向布局
+  redirect_to: /bio/  # 设置重定向到 bio 页面
