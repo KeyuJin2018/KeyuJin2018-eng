@@ -1,4 +1,4 @@
-# 人生不应该是刻意点缀你履历的过程，而是通过你的持久的热情、 投入和不断奋斗所描绘出的轨迹。
+# Brevity is the soul of wit.。
 
 Danto is a fast, modern, optimized, and mobile-friendly Jekyll theme. It is fully compatible with GitHub Pages, supports videos from YouTube and Vimeo, and also has a light and dark mode. This theme has been designed with a focus on readability to provide your visitors with a quality user experience and is perfect for a personal blog, news, magazine, and all kinds of publishing websites.
 
