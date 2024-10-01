@@ -19,7 +19,6 @@ In ***The New China Playbook***, Keyu Jin burrows deep into the mechanisms of a 
 
 Click the titles to read the articles or see the videos.
 <hr style="border: none; height: 3px; background-color: red; margin: 0;" />
-<br>
 # **FORTUNE**
 
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">"THE NEW CHINA PLAYBOOK: BEYOND SOCIALISM AND CAPITALISM" SELECTED AS ONE OF FORTUNE MAGAZINE'S TOP 10 MUST-READ BOOKS FOR BOARD MEMBERS </span>](https://fortune.com/2023/12/19/10-books-every-board-member-should-read/)<br>
