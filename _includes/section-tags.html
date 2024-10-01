@@ -1,3 +1,21 @@
+{% if site.data.settings.tags_section.enable == true and site.data.settings.tags_section.tags != null %}
+
+{% if site.data.settings.tags_section.number_columns == 1 %}
+  {% assign number_columns = 12 %}
+{% elsif site.data.settings.tags_section.number_columns == 2 %}
+  {% assign number_columns = 6 %}
+{% elsif site.data.settings.tags_section.number_columns == 3 %}
+  {% assign number_columns = 4 %}
+{% elsif site.data.settings.tags_section.number_columns == 4 %}
+  {% assign number_columns = 3 %}
+{% endif %}
+
+{% if site.data.settings.tags_section.number_posts %}
+  {% assign number_posts = site.data.settings.tags_section.number_posts %}
+{% else %}
+  {% assign number_posts = 3 %}
+{% endif %}
+
 {% for tag_word in site.data.settings.tags_section.tags %}
 <!-- begin section-tag -->
 <section class="section section-tags animate">
@@ -8,16 +26,11 @@
 
           <div class="section__info">
             <div class="section__head">
-              <!-- 将所有标签的空格替换为加号 -->
-              <h2 class="section__title">
-                <a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | replace: ' ', '+' }}" class="section__link">{{ tag_word.tag | capitalize }}</a>
-              </h2>
-
-              <!-- 处理 View All 链接，同样替换空格为加号 -->
+              <h2 class="section__title"><a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | downcase }}" class="section__link">{{ tag_word.tag | capitalize }}</a></h2>
               {% if site.data.settings.tags_section.number_posts < site.tags.[tag_word.tag].size %}
-                <a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | replace: ' ', '+' }}" class="button">View all <i class="ion ion-ios-arrow-forward"></i></a>
+              <a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | downcase }}" class="button">View all <i class="ion ion-ios-arrow-forward"></i></a>
               {% elsif {{number_posts}} < site.tags.[tag_word.tag].size %}
-                <a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | replace: ' ', '+' }}" class="button">View all <i class="ion ion-ios-arrow-forward"></i></a>
+              <a href="{{ site.baseurl }}/tags/?tag={{ tag_word.tag | downcase }}" class="button">View all <i class="ion ion-ios-arrow-forward"></i></a>
               {% endif %}
             </div>
           </div>
@@ -38,3 +51,5 @@
 </section>
 <!-- end section-tag -->
 {% endfor %}
+
+{% endif %}
