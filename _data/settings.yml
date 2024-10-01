@@ -11,10 +11,10 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "HOME"
-      url: "/"
     - title: "BIO"
       url: "/bio/"
+    - title: "HOME"
+      url: "/"
     - title: "PAPERS"
       url: "/papers/"
     - title: "CV"
