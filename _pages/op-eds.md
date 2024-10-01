@@ -11,6 +11,10 @@ ARTICLE, 16TH MAY 2023
 <br>
 # **The Wall Street Journal**
 
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">China’s New Era</span>](https://www.wsj.com/video/events/chinas-new-era/3E0F9D0E-EB60-4F9B-B0D8-6A3093564071?page=5)<br>
+VIDEO, 24 MAY 2023
+<br>
+<br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S ECONOMY IS LEAVING BEHIND ITS EDUCATED YOUNG PEOPLE</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d)<br>
 ARTICLE, [<span style="color:red; font-size:0.9em;">(AUDIO)</span>](https://www.wsj.com/articles/chinas-economy-is-leaving-behind-its-educated-young-people-f742c23d), 11 MAY 2023
 ———————————————————————————————————————————————————
