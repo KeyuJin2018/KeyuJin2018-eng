@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MEDIA
+title: OP-EDS
 permalink: /media/
 ---
 # **Time magazine**
