@@ -1,19 +1,22 @@
 ---
 layout: default
-title: IN CHINESE
+title: In Chinese
 permalink: /in-chinese/
 tags: [in chinese]
 ---
 
-<!-- 内容区域 -->
+<!-- begin content -->
 <section class="section">
-    <div class="container">
-        <div class="row">
-            {% for post in site.tags["in chinese"] %}
-                <div class="col col-4 col-d-6 col-t-12">
-                    {% include article.html %}
-                </div>
-            {% endfor %}
-        </div>
+  <div class="container">
+    <div class="row">
+      {% for post in site.tags["in chinese"] %}
+        {% if post.title != null %}
+          <div class="col col-4 col-d-6 col-t-12">
+            {% include article.html %}
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
+  </div>
 </section>
+<!-- end content -->
