@@ -8,5 +8,5 @@ image: '/images/06086f4ac0e9.jpeg'
 tags: [IN CHINESE]
 ---
 <a href="/pdf/xinjingbao713.pdf" target="_blank">
-  <img src="/images/xinjingbao.jpg" alt="Xinjingbao" style="cursor: pointer; width: 300px;" />
+  <img src="/images/xinjingbao.jpg" alt="Xinjingbao" style="cursor: pointer;" />
 </a>
