@@ -18,7 +18,7 @@ In ***The New China Playbook***, Keyu Jin burrows deep into the mechanisms of a 
 <h2 style="font-weight:bold; color:black;">PRAISE FOR THE NEW CHINA PLAYBOOK</h2>
 
 Click the titles to read the articles or see the videos.
-<hr style="border: none; height: 3px; background-color: red;" />
+<hr style="border: none; height: 3px; background-color: red; margin: 0;" />
 # **The Guardian**
 
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">CHINA’S PROPERTY MARKET IS IN FREEFALL. WHAT DOES THIS MEAN FOR THE WORLD ECONOMY? </span>](https://www.theguardian.com/commentisfree/2022/aug/23/china-property-market-world-economy)<br>
