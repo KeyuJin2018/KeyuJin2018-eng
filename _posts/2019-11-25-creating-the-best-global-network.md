@@ -5,7 +5,7 @@ description: 在网络时代，一国联结的广泛度与经济规模同样重�
 date: 2019-11-25 15:01:35 +0300
 author: admin
 image: '/images/with_the_title_Creating_the_Best_G.png'
-tags: [IN CHINESE]
+tags: [COMMENTARIES]
 ---
 来源于 《财新周刊》 2019年第45期 出版日期 2019年11月25日
 
