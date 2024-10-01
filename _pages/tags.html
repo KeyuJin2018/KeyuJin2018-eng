@@ -3,31 +3,16 @@ layout: default
 title: Tags
 permalink: /tags/
 ---
-
-{% capture site_tags %}
-  {% for tag in site.tags %}
-    {{ tag | first }}{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-{% endcapture %}
-
-{% assign tag_words = site_tags | split: ',' | sort %}
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
 
 <!-- begin tags -->
 <section class="section tags">
 
-  <!-- 输出所有标签 -->
-  <h2>All Available Tags:</h2>
-  <ul>
-    {% for tag in tag_words %}
-      <li>{{ tag }}</li>
-    {% endfor %}
-  </ul>
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
 
-  <!-- 遍历每个标签并显示对应的文章 -->
-  {% for item in (0..site.tags.size-1) %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-
-    <div class="tags__inner" tag="{{ this_word | cgi_escape }}">
+  <div class="tags__inner is-hidden" tag="{{ this_word | cgi_escape }}">
 
       <div class="container">
         <div class="row">
@@ -44,8 +29,7 @@ permalink: /tags/
           {% for post in site.tags[this_word] %}
             {% if post.title != null %}
               <div class="col col-4 col-d-6 col-t-12">
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.excerpt }}</p>
+                {% include article.html %}
               </div>
             {% endif %}
           {% endfor %}
@@ -53,6 +37,20 @@ permalink: /tags/
       </div>
 
     </div>
-  {% endfor %}
+
+    {% endunless %}
+    {% endfor %}
 
 </section>
+<!-- end tags -->
+
+<script>
+  var tag_name = window.location.search.replace("?tag=", "");
+  tag_name = decodeURIComponent(tag_name)
+  document.querySelectorAll('.tags__inner').forEach(function(el) {
+    var tag = decodeURIComponent(el.getAttribute('tag') || '')
+    if (tag === tag_name) {
+      el.classList.remove("is-hidden");
+    }
+  })
+</script>
