@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 
 <!-- Begin container for text and image layout -->
-<div style="display: flex; align-items: flex-start; width: 70vw; margin: 0 auto;">
+<div style="display: flex; align-items: flex-start; width: 70vw; margin: 0 auto; justify-content: flex-start;">
 
   <!-- Left side: Text content -->
   <div style="flex: 19; padding-right: 30px;">
