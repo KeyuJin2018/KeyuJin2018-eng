@@ -18,7 +18,7 @@ permalink: /tags/
         <div class="row">
           <div class="col col-12">
             <div class="tag__info">
-              <h1 class="tag__title">{{ this_word }} <span class="tag__counter">{{ site.tags[this_word].size }}</span></h1>
+              <h1 class="tag__title">{{ this_word | upcase }} <span class="tag__counter">{{ site.tags[this_word].size }}</span></h1>  <!-- 将标签名转换为大写 -->
             </div>
           </div>
         </div>
@@ -46,10 +46,10 @@ permalink: /tags/
 
 <script>
   var tag_name = window.location.search.replace("?tag=", "").trim();
-  tag_name = decodeURIComponent(tag_name).replace(/\+/g, " ").toLowerCase();  // 将 "+" 转换为空格
+  tag_name = decodeURIComponent(tag_name).replace(/\+/g, " ").toUpperCase();  // 将URL中的标签转换为大写
 
   document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '').replace(/\+/g, " ").trim().toLowerCase();  // 将 "+" 转换为空格
+    var tag = decodeURIComponent(el.getAttribute('tag') || '').replace(/\+/g, " ").trim().toUpperCase();  // 将页面中的标签转换为大写
     if (tag === tag_name) {
       el.classList.remove("is-hidden");
     }
