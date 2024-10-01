@@ -45,12 +45,13 @@ permalink: /tags/
 <!-- end tags -->
 
 <script>
-  var tag_name = window.location.search.replace("?tag=", "");
-  tag_name = decodeURIComponent(tag_name)
+  var tag_name = window.location.search.replace("?tag=", "").trim();
+  tag_name = decodeURIComponent(tag_name).toLowerCase();  // 将 URL 参数转换为小写
+
   document.querySelectorAll('.tags__inner').forEach(function(el) {
-    var tag = decodeURIComponent(el.getAttribute('tag') || '')
+    var tag = decodeURIComponent(el.getAttribute('tag') || '').trim().toLowerCase();  // 将标签转换为小写
     if (tag === tag_name) {
       el.classList.remove("is-hidden");
     }
-  })
+  });
 </script>
