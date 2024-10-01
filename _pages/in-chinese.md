@@ -1,8 +1,8 @@
 ---
 layout: default
-title: In Chinese
+title: IN CHINESE
 permalink: /in-chinese/
-tags: [IN CHINESE]  <!-- 确保标签正确 -->
+tags: [IN CHINESE]  
 ---
 
 <!-- begin content -->
