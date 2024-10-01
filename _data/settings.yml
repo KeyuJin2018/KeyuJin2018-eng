@@ -23,6 +23,8 @@ menu_settings:
       url: "/op-eds/"
     - title: "VIDEOS"
       url: "/videos/"
+    - title: "IN CHINESE"
+      url: "/in+chinese/"
     - title: "THE NEW CHINA PLAYBOOK"
       url: "/the-new-china-playbook/"
     - title: "CONTACT"
