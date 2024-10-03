@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 
 <!-- 开始文本和图片布局的容器 -->
-<div class="content-container" style="display: flex; align-items: flex-start; justify-content: flex-start; width: 70vw; margin: 0 auto;">
+<div class="content-container" style="display: flex; align-items: flex-start; justify-content: flex-start; width: 70vw; margin: 0 auto; flex-direction: row;">
 
   <!-- 左侧：文本内容 -->
   <div class="text-content" style="flex: 1; padding-right: 30px;">
@@ -23,7 +23,15 @@ permalink: /bio/
 
 <!-- 响应式样式，确保在小屏幕上图片在上，文字在下 -->
 <style>
-  /* 在小屏幕上（如手机），将布局改为图片在上，文字在下 */
+  /* 默认（PC端）布局：文字在左，图片在右 */
+  .content-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  /* 在小屏幕（手机端）上，将布局改为图片在上，文字在下 */
   @media (max-width: 768px) {
     .content-container {
       flex-direction: column;
@@ -31,10 +39,10 @@ permalink: /bio/
       align-items: center;
     }
 
-    /* 调整左右间距，确保在手机端的显示效果 */
+    /* 调整文字和图片间距 */
     .text-content {
       padding-right: 0;
-      padding-bottom: 20px;
+      padding-bottom: 20px; /* 让图片和文字间距更大 */
     }
 
     .image-content {
