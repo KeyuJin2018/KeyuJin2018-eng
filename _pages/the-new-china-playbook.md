@@ -5,10 +5,10 @@ permalink: /the-new-china-playbook/
 ---
 <br>
 <!-- 开始文本和图片布局的容器 -->
-<div class="content-container" style="display: flex; align-items: flex-start; justify-content: flex-start; width: 70vw; margin: 0 auto; flex-direction: row;">
+<div class="content-container" style="display: flex; align-items: flex-start; justify-content: flex-start; width: 70vw; margin: 0 auto;">
 
   <!-- 左侧：文本内容 -->
-  <div class="text-content" style="flex: 19; padding-right: 30px;">
+  <div class="text-content" style="flex: 1; padding-right: 30px;">
     <p style="font-size: 16px; line-height: 1.6;">
       In <span style="font-style: italic; font-weight: bold;">The New China Playbook</span>, Keyu Jin burrows deep into the mechanisms of a unique system, taking a nuanced, clear-eyed, and data-based look inside. From the far-reaching and unexpected consequences of China’s one-child policy to the government’s complex relationship with entrepreneurs, from its boisterous financial system to its latest bout of techno-nationalism, Jin reveals the frequently misunderstood dynamics at play. China is entering a new era, soon to be shaped by a radically different younger generation.
     </p>
@@ -37,7 +37,7 @@ permalink: /the-new-china-playbook/
 
 <!-- 响应式样式，确保在小屏幕上文字在上，图片在下 -->
 <style>
-  /* 默认 PC 端布局：文字在左边，图片在右边 */
+  /* PC 端布局：文字在左边，图片在右边 */
   .content-container {
     display: flex;
     flex-direction: row;
@@ -45,16 +45,16 @@ permalink: /the-new-china-playbook/
     justify-content: flex-start;
   }
 
-  /* 小屏幕（如手机端）布局：文字在上，图片在下 */
+  /* 手机端布局：文字在上，图片在下 */
   @media (max-width: 768px) {
     .content-container {
       flex-direction: column; /* 文字在上，图片在下 */
     }
 
-    /* 调整文字和图片的间距 */
+    /* 调整间距，确保手机端显示正常 */
     .text-content {
       padding-right: 0;
-      padding-bottom: 20px; /* 让文字和图片间距更大 */
+      padding-bottom: 20px; /* 增加文字和图片的间距 */
     }
 
     .image-content {
