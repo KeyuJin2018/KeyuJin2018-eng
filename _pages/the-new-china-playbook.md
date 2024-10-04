@@ -35,7 +35,7 @@ permalink: /the-new-china-playbook/
 
 </div>
 
-<!-- 响应式样式，确保在小屏幕上图片在上，文字在下 -->
+<!-- 响应式样式，确保在小屏幕上文字在上，图片在下 -->
 <style>
   /* 默认 PC 端布局：文字在左边，图片在右边 */
   .content-container {
@@ -45,18 +45,16 @@ permalink: /the-new-china-playbook/
     justify-content: flex-start;
   }
 
-  /* 小屏幕（如手机端）布局：图片在上，文字在下 */
+  /* 小屏幕（如手机端）布局：文字在上，图片在下 */
   @media (max-width: 768px) {
     .content-container {
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
+      flex-direction: column; /* 文字在上，图片在下 */
     }
 
-    /* 调整图片和文字的间距 */
+    /* 调整文字和图片的间距 */
     .text-content {
       padding-right: 0;
-      padding-bottom: 20px; /* 让图片和文字间距更大 */
+      padding-bottom: 20px; /* 让文字和图片间距更大 */
     }
 
     .image-content {
