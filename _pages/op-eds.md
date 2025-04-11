@@ -37,6 +37,11 @@ ARTICLE, 01 JUNE 2020
 <br>
 # **The Financial Times**
 
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">If Trump is trying to suppress China,he
+’s going about it all wrong</span>](https://github.com/KeyuJin2018/KeyuJin2018-eng/blob/a8469f9aac990b86a4136bc37bf1d3f0e529abdd/pdf/If%20Trump%20is%20trying%20to%20suppress%20China%2C%20he%E2%80%99s%20going%20about%20it%20all%20wrong.pdf)<br>
+ARTICLE, April 1023 2025
+<br>
+<br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">XI JINPINGS’S DREAM OF A CHINESE MILITARY INDUSTRIAL COMPLEX</span>](https://www.ft.com/content/6f388e4b-9c4e-4ca3-8040-49962f1e155d?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9)<br>
 ARTICLE, JUNE 23 2023
 <br>
