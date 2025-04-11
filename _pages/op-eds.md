@@ -37,8 +37,7 @@ ARTICLE, 01 JUNE 2020
 <br>
 # **The Financial Times**
 
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">If Trump is trying to suppress China,he
-’s going about it all wrong</span>](https://github.com/KeyuJin2018/KeyuJin2018-eng/blob/a8469f9aac990b86a4136bc37bf1d3f0e529abdd/pdf/If%20Trump%20is%20trying%20to%20suppress%20China%2C%20he%E2%80%99s%20going%20about%20it%20all%20wrong.pdf)<br>
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">If Trump is trying to suppress China,he’s going about it all wrong</span>](https://github.com/KeyuJin2018/KeyuJin2018-eng/blob/a8469f9aac990b86a4136bc37bf1d3f0e529abdd/pdf/If%20Trump%20is%20trying%20to%20suppress%20China%2C%20he%E2%80%99s%20going%20about%20it%20all%20wrong.pdf)<br>
 ARTICLE, April 1023 2025
 <br>
 <br>
