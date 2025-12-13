@@ -9,8 +9,8 @@ permalink: /papers/
 WORKING PAPER, FEBRUARY 2024
 <br>
 <br>
-- [<span style="color:red; font-weight:bold; font-size:0.9em;">TECHNOLOGICAL RIVALRY AND OPTIMAL DYNAMIC POLICY IN AN OPEN ECONOMY WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_Sept2023.pdf)<br>
-WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS MARCH 2024———————————————————————————————————————————————————
+- [<span style="color:red; font-weight:bold; font-size:0.9em;">TECHNOLOGICAL RIVALRY AND OPTIMAL DYNAMIC POLICY IN AN OPEN ECONOMY WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/draft_BJL_2025.pdf)<br>
+WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACROECONOMICS JULY 2025———————————————————————————————————————————————————
 <br>
 # **PUBLICATIONS**
 
