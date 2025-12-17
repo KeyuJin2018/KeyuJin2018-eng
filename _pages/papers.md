@@ -15,8 +15,8 @@ WORKING PAPER NBER 1703, REVISE AND RESUBMIT, JOURNAL OF POLITICAL ECONOMY- MACR
 # **PUBLICATIONS**
 
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">MISALLOCATION UNDER TRADE LIBERALIZATION
-WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_July2021.pdf)<br>
-AMERICAN ECONOMIC REVIEW, ACCEPTED SEPTEMBER 2023
+WITH YAN BAI AND DAN LU</span>](https://www.keyujin.co/pdf/BJL_2023_mainPaper.pdf)<br>
+AMERICAN ECONOMIC REVIEW, ACCEPTED DECEMBER 2023
 <br>
 <br>
 - [<span style="color:red; font-weight:bold; font-size:0.9em;">THE ONE CHILD POLICY AND HOUSEHOLD SAVING
